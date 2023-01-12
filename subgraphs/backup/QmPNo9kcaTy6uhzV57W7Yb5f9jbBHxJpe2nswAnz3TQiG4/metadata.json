@@ -1,0 +1,9 @@
+{
+  "name": "Giveth Economy XDai",
+  "displayName": "Giveth Economy Gnosis",
+	"description": "Giveth Economy xDAI Subgraph",
+	"subgraphImage": "https://ipfs.network.thegraph.com/api/v0/cat?arg=QmU6MwC4LF1LefsfYM73PqtWuNcQYn3tG4vcrFb9uaov9Z",
+	"website": "https://giveth.io",
+	"codeRepository": "https://github.com/Giveth/giveconomy-subgraph",
+	"categories": ["Giveth", "DAOs", "DeFi"]
+}

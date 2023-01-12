@@ -1,0 +1,9 @@
+{ "name": "Gardens Gnosis Chain",
+"displayName": "Gardens GC",
+"description": "Gardens is a framework for a new kind of DAO - a composable, sufficiently decentralized, and self-improving system, limited only by your community's collective imagination",
+"subgraphImage":
+"https://ipfs.network.thegraph.com/api/v0/cat?arg=QmeBhox4zhPyvDRKHGfBz83XcMgtjfCvR2xJ6UR3pe5NMq",
+"website": "https://gardens.1hive.org/",
+"codeRepository": "https://github.com/1Hive/gardens/tree/master/packages/subgraph",
+"categories": ["DAOs"]
+}

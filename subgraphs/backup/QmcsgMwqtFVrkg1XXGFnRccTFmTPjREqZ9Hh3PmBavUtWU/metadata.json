@@ -1,0 +1,9 @@
+{
+    "name": "Curve Finance Gnosis",
+    "displayName": "Curve Gnosis",
+    "description": "",
+    "subgraphImage": "https://ipfs.network.thegraph.com/api/v0/cat?arg=Qmbq79W23KnmBrb1UXAgvqCYJFZnzRMzC9YrT8fUzwHWvJ",
+    "website": "https://messari.io/",
+    "codeRepository": "https://github.com/messari/subgraphs",
+    "categories": ["DeFi"]
+}

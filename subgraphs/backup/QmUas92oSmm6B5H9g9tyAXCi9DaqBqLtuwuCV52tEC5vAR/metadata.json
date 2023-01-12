@@ -1,0 +1,9 @@
+{
+    "name": "SushiSwap Gnosis",
+    "displayName": "SushiSwap Gnosis",
+    "description": ""
+    "subgraphImage": "https://ipfs.network.thegraph.com/api/v0/cat?arg=Qmf2eSjXm7hKBCo9JWkf1yKmwLe9zuVrixbQJUK8tir6C6",
+    "website": "https://messari.io/",
+    "codeRepository": "https://github.com/messari/subgraphs",
+    "categories": ["DeFi"]
+}
