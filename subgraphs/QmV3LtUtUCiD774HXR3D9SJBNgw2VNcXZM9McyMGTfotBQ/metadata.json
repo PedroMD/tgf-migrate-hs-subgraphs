@@ -1,0 +1,9 @@
+{
+  "name": "Aavegotchi Core Matic",
+  "displayName": "Aavegotchi Core Matic",
+  "description": "Aavegotchi Core Matic Subgraph",
+  "subgraphImage": "https://app.aavegotchi.com/images/aavegotchi-dark.gif",
+  "website": "aavegotchi.com",
+  "codeRepository": "https://github.com/aavegotchi/aavegotchi-matic-subgraph",
+  "categories": ["NFTs", "Social", "DAOs"]
+}

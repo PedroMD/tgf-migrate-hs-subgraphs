@@ -1,0 +1,9 @@
+{
+  "name": "Decentraland collections matic mainnet",
+  "displayName": " Decentraland Collections polygon",
+  "description": "collections matic mainnet",
+  "subgraphImage": "https://drive.google.com/file/d/1EEQHYiZ1hw4qAkfvZqNMeAE7KpGkflX2/view?usp=sharing",
+  "website": "https://decentraland.org/",
+  "codeRepository": "https://github.com/decentraland/collections-graph",
+  "categories": ["Social", "DAOs"]
+}
