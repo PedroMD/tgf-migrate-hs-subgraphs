@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-set -ex
+set -e
 
 ########################################################################
 # Configuration
@@ -32,24 +32,24 @@ find_replace_sed() {
 ipfs_add() {
   # Add file to local ipfs node, save ipfs hash
   ipfs_path=$(curl -s -F "file=@$1" "$LOCAL_IPFS_URL/api/v0/add" | jq -r '.Hash') #FIXME. no response?
+  echo "$ipfs_path"
 
   # Pin file to network IPFS gateway, save ipfs hash
-  added_hash=$(curl -s -X POST "$NETWORK_IPFS_URL/api/v0/pin/add?arg=/ipfs/$ipfs_path" | \
+  added_hash=$(curl   -s -X POST "$NETWORK_IPFS_URL/api/v0/pin/add?arg=/ipfs/$ipfs_path" | \
     cut -d "[" -f2 | cut -d "]" -f1 | tr -d ' "')
-  echo $added_hash
 }
 
 # Pin file to network IPFS node
 # 1: IPFS hash
 ipfs_pin() {
+  #sleep 30
   # Pin file to network IPFS gateway, save ipfs hash
-  pinned_hash=$(curl --write-out '%{http_code}' --silent --output /dev/null -s -X POST "$NETWORK_IPFS_URL/api/v0/pin/add?arg=/ipfs/$1" | \
-    cut -d "[" -f2 | cut -d "]" -f1 | tr -d ' "')
+  result=$(curl --write-out '%{http_code}' -s -X POST "$NETWORK_IPFS_URL/api/v0/pin/add?arg=/ipfs/$1")
 
-#response=$(curl --write-out '%{http_code}' --silent --output /dev/null servername)
-
-
-  echo $pinned_hash
+  #| \
+  #  cut -d "[" -f2 | cut -d "]" -f1 | tr -d ' "')
+  #echo "result: $result"
+  #echo "pinned hash: $1"
 }
 
 ########################################################################
@@ -79,10 +79,39 @@ grep 'Qm.*' deployment_manifest_temp > ipfshashes
 sed -i -e 's/\/: \/ipfs\///g' ipfshashes
 sed -i -e 's/^[[:space:]]\{1,\}//' ipfshashes
 
+failed=0
 while read hash; do
-  pinned=$(ipfs_pin "$hash")
-  echo "Pinned: $pinned"
+  result=$(curl --connect-timeout 300 --max-time 600 --write-out '%{http_code}' --silent --output /dev/null -X POST "$NETWORK_IPFS_URL/api/v0/pin/add?arg=/ipfs/$hash")
+  echo "result: $result"
+  #result=$(ipfs_pin "$hash")
+  if [[ $result -ne 200 ]]
+  then
+    echo "failed: $hash"
+    failed=1
+    echo $hash >> failed_hashes_$DEPLOYMENT_ID
+  else
+    echo "success: $hash"
+  fi
 done < ipfshashes
+
+if [ $failed -gt 0 ]
+then
+  echo "looping failed ones..."
+  while read failed_hash; do
+    echo "(looping failed) failed hash: $failed_hash"
+    #result=$(ipfs_pin "$hash")
+    result=$(curl --connect-timeout 300 --max-time 600 --write-out '%{http_code}' --silent --output /dev/null -X POST "$NETWORK_IPFS_URL/api/v0/pin/add?arg=/ipfs/$failed_hash")
+    echo "result: $result"
+    if [[ $result == 200 ]]
+    then
+      # remove failed from failed list
+      echo "removing $failed_hash"
+      grep -v $failed_hash failed_hashes_$DEPLOYMENT_ID  > tmpfile && mv tmpfile failed_hashes_$DEPLOYMENT_ID
+    fi
+  done < failed_hashes_$DEPLOYMENT_ID
+fi
+
+
 
 ########################################################################
 # Pin metadata files to IPFS node
