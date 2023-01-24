@@ -43,8 +43,12 @@ ipfs_add() {
 # 1: IPFS hash
 ipfs_pin() {
   # Pin file to network IPFS gateway, save ipfs hash
-  pinned_hash=$(curl -s -X POST "$NETWORK_IPFS_URL/api/v0/pin/add?arg=/ipfs/$1" | \
+  pinned_hash=$(curl --write-out '%{http_code}' --silent --output /dev/null -s -X POST "$NETWORK_IPFS_URL/api/v0/pin/add?arg=/ipfs/$1" | \
     cut -d "[" -f2 | cut -d "]" -f1 | tr -d ' "')
+
+#response=$(curl --write-out '%{http_code}' --silent --output /dev/null servername)
+
+
   echo $pinned_hash
 }
 
