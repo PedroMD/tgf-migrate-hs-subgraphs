@@ -1,0 +1,39 @@
+name: Run E2E tests
+
+on:
+  push:
+    branches: [dev]
+    paths:
+      - contracts/**
+      - config/**
+      - e2e/**
+      - cli/**
+      - tasks/**
+      - scripts/**
+      - hardhat.config.ts
+  pull_request: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [16.x]
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+      - name: Install packages
+        run: yarn install --non-interactive --frozen-lockfile
+      - name: Run e2e tests
+        run: |
+          git clone https://github.com/edgeandnode/nitro
+          pushd nitro
+          git submodule update --init --recursive
+          ./test-node.bash --init --no-blockscout --detach
+          popd
+          L1_NETWORK=localnitrol1 L2_NETWORK=localnitrol2 yarn test:e2e

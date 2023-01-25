@@ -1,0 +1,8 @@
+{
+	"name": "Curve Volume Polygon (MIPs)",
+	"displayName": "Curve Volume Polygon (MIPs)",
+	"description": "A subgraph published to The Graph's Goerli testnet by The Graph Foundation, as part of the MIPs program. You can read more about MIPs here: https://thegraph.com/migration-incentive-program/.",
+	"image": "https://ipfs.network.thegraph.com/api/v0/cat?arg=QmToXjnxSkRDU8YdCGnawEdrc3bMnbmUdXSwvuxGixJVxd",
+	"website": "curve.fi",
+	"codeRepository": "https://github.com/curvefi/volume-subgraphs"
+}

@@ -1,0 +1,30 @@
+node_modules/
+
+# Ignore build stuff
+cache/
+build/
+dist/
+
+# Hardhat cache
+cached/
+
+# Ignore solc bin output
+bin/
+
+# Others
+.env
+.DS_Store
+.vscode
+
+# Coverage and other reports
+/reports
+coverage.json
+
+# Local test files
+addresses-local.json
+localNetwork.json
+arbitrum-addresses-local.json
+tx-*.log
+
+# Keys
+.keystore

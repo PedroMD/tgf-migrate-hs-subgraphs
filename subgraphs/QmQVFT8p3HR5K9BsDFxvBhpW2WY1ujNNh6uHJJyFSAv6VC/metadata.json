@@ -1,0 +1,9 @@
+{
+"name": "Connext NXTP v1 Gnosis Chain",
+"displayName": "Connext NXTP v1 Gnosis Chain",
+"description": "A subgraph published to The Graph's Arbitrum Goerli testnet by The Graph Foundation, as part of the MIPs program. You can read more about MIPs here: https://thegraph.com/migration-incentive-program/.",
+"image": "",
+"website": "connext.network",
+"codeRepository": "https://github.com/connext/nxtp",
+"categories": ["DeFi", "Bridges"]
+}

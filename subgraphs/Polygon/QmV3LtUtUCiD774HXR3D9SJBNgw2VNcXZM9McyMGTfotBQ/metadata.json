@@ -1,0 +1,9 @@
+{
+  "name": "Aavegotchi Core Polygon (MIPs)",
+  "displayName": "Aavegotchi Core Polygon (MIPs)",
+  "description": "A subgraph published to The Graph's Goerli testnet by The Graph Foundation, as part of the MIPs program. You can read more about MIPs here: https://thegraph.com/migration-incentive-program/.",
+  "image": "https://ipfs.network.thegraph.com/api/v0/cat?arg=QmUYwX4Y4LSfN1RTwxwoYkEBhYrxBTyDvppAXSV2BMFSHw",
+  "website": "aavegotchi.com",
+  "codeRepository": "https://github.com/aavegotchi/aavegotchi-matic-subgraph",
+  "categories": ["NFTs", "Social", "DAOs"]
+}
