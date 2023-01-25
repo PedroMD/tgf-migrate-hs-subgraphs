@@ -1,9 +1,0 @@
-{
-"name": "Connext NXTP v1 Gnosis Chain",
-"displayName": "Connext NXTP v1 Gnosis Chain",
-"description": "Connext cross-chain transactions subgraph",
-"subgraphImage": "https://api.thegraph.com/ipfs/api/v0/cat?arg=QmS3q9pkj1cqqhoxGaNChQvgj3cdJVMaDdJaQ8FntzXidZ",
-"website": "connext.network",
-"codeRepository": "https://github.com/connext/nxtp",
-"categories": ["DeFi", "Bridges"]
-}

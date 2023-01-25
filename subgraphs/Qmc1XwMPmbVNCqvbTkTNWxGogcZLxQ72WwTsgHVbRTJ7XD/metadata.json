@@ -1,9 +1,0 @@
-{
-  "name": "Decentraland Collections Polygon (MIPs)",
-  "displayName": " Decentraland Collections Polygon (MIPs)",
-  "description": "A subgraph published to The Graph's Goerli testnet by The Graph Foundation, as part of the MIPs program. You can read more about MIPs here: https://thegraph.com/migration-incentive-program/.",
-  "image": "https://ipfs.network.thegraph.com/api/v0/cat?arg=QmeEKTZrXNVQLD5xP4xCUjshAFAxCSHVUFvYiZcbXbarQe",
-  "website": "https://decentraland.org/",
-  "codeRepository": "https://github.com/decentraland/collections-graph",
-  "categories": ["Social", "DAOs"]
-}

@@ -1,9 +1,0 @@
-{
-  "name": "Balancer V2 Polygon (MIPs)",
-  "displayName": "Balancer V2 Polygon (MIPs)",
-  "description": "A subgraph published to The Graph's Goerli testnet by The Graph Foundation, as part of the MIPs program. You can read more about MIPs here: https://thegraph.com/migration-incentive-program/.",
-  "image": "https://ipfs.network.thegraph.com/api/v0/cat?arg=QmWM6y6gKjQxoM5xaomtNxDo1ma7WizLXRTjitwKHz1qW9",
-  "website": "https://balancer.fi/",
-  "codeRepository": "https://github.com/balancer-labs/balancer-subgraph-v2",
-  "categories": ["DeFi"]
-}

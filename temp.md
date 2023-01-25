@@ -45,7 +45,7 @@
     - curve-polygon-mips.png: 
     - New deployment ID:  (output of `pin_subgraph_files.sh`)
 
-## https://thegraph.com/hosted-service/subgraph/ubeswap/celo-blocks
+## QmRqbVKtYnYKTaZQrG8v4pG2sMEzgjuCK8Vz99e367fZoU
 - Celo Blocks
     - https://thegraph.com/hosted-service/subgraph/ubeswap/celo-blocks
     - subgraph metadata pinned:  (output of `pin_subgraph_files.sh`)
