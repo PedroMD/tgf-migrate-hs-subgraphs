@@ -1,0 +1,9 @@
+{
+  "name": "Request Payments Celo (MIPs)",
+  "displayName": "Request Payments Celo (MIPs)",
+  "description": "Request Network: The easiest way to get your invoices paid in crypto. This subgraph was published to The Graph's Goerli testnet by The Graph Foundation, as part of the MIPs program. You can read more about MIPs here: https://thegraph.com/migration-incentive-program/.",
+  "image": "https://ipfs.network.thegraph.com/api/v0/cat?arg=",
+  "website": "https://request.network/",
+  "codeRepository": "https://github.com/RequestNetwork/payments-subgraph",
+  "categories": ["DeFi", "DAOs", "Work", "Other"]
+}
