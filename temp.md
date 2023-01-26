@@ -72,4 +72,13 @@
     - curve-polygon-mips.png: 
     - New deployment ID:  (output of `pin_subgraph_files.sh`)
 
+--- 
 
+# Arbitrum Goerli network (The Graph Testnet)
+## Celo
+### QmQVFT8p3HR5K9BsDFxvBhpW2WY1ujNNh6uHJJyFSAv6VC
+- Connext NXTP v1 Gnosis Chain
+    - hoste sercice link ehere... 
+    - subgraph metadata pinned: QmTeTVLHARkziyRhsNejUjuBtFanB2ZwXaXMBKKV1sFSaj
+    - version metadata pinned: QmYADApS7HFQ3f4726WBUp14zZqfbGWr2b89tdRSjtwdLR
+    - New deployment ID: QmWq1pmnhEvx25qxpYYj9Yp6E1xMKMVoUjXVQBxUJmreSe
