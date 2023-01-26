@@ -42,15 +42,15 @@
     - https://thegraph.com/hosted-service/subgraph/requestnetwork/request-payments-celo
     - subgraph metadata pinned:  (output of `pin_subgraph_files.sh`)
     - version metadata pinned:  (output of `pin_subgraph_files.sh`)
-    - curve-polygon-mips.png: 
+    - MIP_request network.jpg: `QmWqsFyidNV8rYjFZdoSSR9Wm4SPhy8WJgFjw8humE2kD8`  
     - New deployment ID:  (output of `pin_subgraph_files.sh`)
 
 ## QmRqbVKtYnYKTaZQrG8v4pG2sMEzgjuCK8Vz99e367fZoU
-- Celo Blocks
+- Ubeswap Celo Blocks
     - https://thegraph.com/hosted-service/subgraph/ubeswap/celo-blocks
     - subgraph metadata pinned:  (output of `pin_subgraph_files.sh`)
     - version metadata pinned:  (output of `pin_subgraph_files.sh`)
-    - curve-polygon-mips.png: 
+    - MIP_ubeswap: `QmZRsHqeCoZBHaVQ2uCQhUvXMGQJcWrCm6T7mYP5u7wgQK`
     - New deployment ID:  (output of `pin_subgraph_files.sh`)
 
 
@@ -60,7 +60,7 @@
     - https://thegraph.com/hosted-service/subgraph/caskprotocol/cask-protocol-celo
     - subgraph metadata pinned:  (output of `pin_subgraph_files.sh`)
     - version metadata pinned:  (output of `pin_subgraph_files.sh`)
-    - curve-polygon-mips.png: 
+    - MIP_cask icon celo.jpg: `QmcMjhLUoZSzTWVK8JCXoUxMz91TRvHEG9CXCcPGnEnd2C`
     - New deployment ID:  (output of `pin_subgraph_files.sh`)
 
 
@@ -69,7 +69,7 @@
     - https://thegraph.com/hosted-service/subgraph/centfinance/symmetric-v2-celo
     - subgraph metadata pinned:  (output of `pin_subgraph_files.sh`)
     - version metadata pinned:  (output of `pin_subgraph_files.sh`)
-    - curve-polygon-mips.png: 
+    - MIP_cent finance.jpg: `Qma73PdN1qSjtUrp4SFx48dtdTrCE3jYnRCDrYJ6yKbx4a` 
     - New deployment ID:  (output of `pin_subgraph_files.sh`)
 
 --- 

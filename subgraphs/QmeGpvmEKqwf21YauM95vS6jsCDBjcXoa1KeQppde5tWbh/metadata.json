@@ -2,7 +2,7 @@
   "name": "Cent Finance - Symmetric V2 (MIPs)",
   "displayName": "Cent Finance - Symmetric V2(MIPs)",
   "description": "Symmetric is a non-custodial portfolio manager, liquidity provider, and price sensor. This subgraph was published to The Graph's Goerli testnet by The Graph Foundation, as part of the MIPs program. You can read more about MIPs here: https://thegraph.com/migration-incentive-program/.",
-  "image": "https://ipfs.network.thegraph.com/api/v0/cat?arg=",
+  "image": "https://ipfs.network.thegraph.com/api/v0/cat?arg=Qma73PdN1qSjtUrp4SFx48dtdTrCE3jYnRCDrYJ6yKbx4a",
   "website": "https://cent.finance/",
   "codeRepository": "https://github.com/centfinance/Symmetric.Subgraph-v2",
   "categories": ["DeFi", "DAOs"]
