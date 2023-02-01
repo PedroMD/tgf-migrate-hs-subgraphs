@@ -2,7 +2,7 @@
   "name": "Tracer Protocol - Arbitrum One (MIPs)",
   "displayName": "Tracer Protocol - Arbitrum One (MIPs)",
   "description": "A Perpetual Pools V2 on Arbitrum One. This subgraph was published to The Graph's Goerli testnet by The Graph Foundation, as part of the MIPs program. You can read more about MIPs here: https://thegraph.com/migration-incentive-program/.",
-  "image": "https://ipfs.network.thegraph.com/api/v0/cat?arg=",
+  "image": "https://ipfs.network.thegraph.com/api/v0/cat?arg=QmYeBtAbY268DxvJQFkCrcs7WkDhp13eAtGPFmVtPRXqBS",
   "website": "https://mycelium.xyz/",
   "codeRepository": "https://github.com/tracer-protocol/perpetual-pools-v2-subgraph",
   "categories": ["Defi"]

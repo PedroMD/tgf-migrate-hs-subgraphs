@@ -89,32 +89,28 @@
 # Arbitrum
 ## QmdPYiwtdBqeDKeMHKWDhuJFxu1TAxWP3qo2Peptia4sLB
 - Trader Joe
-    - https://thegraph.com/hosted-service/subgraph/caskprotocol/cask-protocol-celo
     - subgraph metadata pinned:  ``
     - version metadata pinned:  ``
-    - MIP_cask icon celo.jpg: ``
+    - image: `QmZ2KuEwduNXgzYLkgUNx8y74vNS68NXSyP9kXq9PsiN6T`
     - New deployment ID:  ``
 
 ## QmPeDVt7ygNQfmQoxsVazBHosebMeDW62tpyP8gqbZDvbJ
 - Tracer Protocol
-    - https://thegraph.com/hosted-service/subgraph/caskprotocol/cask-protocol-celo
     - subgraph metadata pinned:  ``
     - version metadata pinned:  ``
-    - MIP_cask icon celo.jpg: ``
+    - image: `QmYeBtAbY268DxvJQFkCrcs7WkDhp13eAtGPFmVtPRXqBS`
     - New deployment ID:  ``
 
 ## QmPy774Z6xNnELMwcie5stweyWdVhj3PMRWxwV9Xm8VpUr
 - Livepeer Arbitrum
-    - https://thegraph.com/hosted-service/subgraph/caskprotocol/cask-protocol-celo
     - subgraph metadata pinned:  ``
     - version metadata pinned:  ``
-    - MIP_cask icon celo.jpg: ``
+    - image: `QmWnr5k1Jbg7jc984hbw7bXveAnNSAhHGBhN3K9PSUao7S`
     - New deployment ID:  ``
 
 ## QmVbEmYjNRU5zyRDq6WDCWLnq952vDVWaM8AmVtvxpMy4b
 - Dodo 
-    - https://thegraph.com/hosted-service/subgraph/caskprotocol/cask-protocol-celo
     - subgraph metadata pinned:  ``
     - version metadata pinned:  ``
-    - MIP_cask icon celo.jpg: ``
+    - image: `QmUwG4HBbPvjRkfaAEtQefQ4sBaWnp2VZHqdyY6UQ9b5bF`
     - New deployment ID:  ``

@@ -2,7 +2,7 @@
   "name": "DODOEX V2 - Arbitrum (MIPs)",
   "displayName": "DODOEX V2 - Arbitrum (MIPs)",
   "description": "An On-Chain Liquidity Provider for everyone. This subgraph was published to The Graph's Goerli testnet by The Graph Foundation, as part of the MIPs program. You can read more about MIPs here: https://thegraph.com/migration-incentive-program/.",
-  "image": "https://ipfs.network.thegraph.com/api/v0/cat?arg=",
+  "image": "https://ipfs.network.thegraph.com/api/v0/cat?arg=QmUwG4HBbPvjRkfaAEtQefQ4sBaWnp2VZHqdyY6UQ9b5bF",
   "website": "https://dodoex.io/",
   "codeRepository": "https://github.com/DODOEX/dodoex_v2_subgraph",
   "categories": ["DeFi"]
