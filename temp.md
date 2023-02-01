@@ -40,37 +40,37 @@
 ## QmWGXQeVv1jfU2puJAbSXXwLDW4gtd6fhf2D4R2cRP7qCK (hosted service deploymentId)
 - Request Payments Celo
     - https://thegraph.com/hosted-service/subgraph/requestnetwork/request-payments-celo
-    - subgraph metadata pinned:  (output of `pin_subgraph_files.sh`)
-    - version metadata pinned:  (output of `pin_subgraph_files.sh`)
+    - subgraph metadata pinned:  `QmZ1Dzhv3bjG3GBNu3ZQLYyCzNCmKWUCdDRjyDXR5Twpcq`
+    - version metadata pinned:  `QmYADApS7HFQ3f4726WBUp14zZqfbGWr2b89tdRSjtwdLR`
     - MIP_request network.jpg: `QmWqsFyidNV8rYjFZdoSSR9Wm4SPhy8WJgFjw8humE2kD8`  
-    - New deployment ID:  (output of `pin_subgraph_files.sh`)
+    - New deployment ID:  `QmWGXQeVv1jfU2puJAbSXXwLDW4gtd6fhf2D4R2cRP7qCK`
 
 ## QmRqbVKtYnYKTaZQrG8v4pG2sMEzgjuCK8Vz99e367fZoU
 - Ubeswap Celo Blocks
     - https://thegraph.com/hosted-service/subgraph/ubeswap/celo-blocks
-    - subgraph metadata pinned:  (output of `pin_subgraph_files.sh`)
-    - version metadata pinned:  (output of `pin_subgraph_files.sh`)
+    - subgraph metadata pinned:  `Qma4bZxbwY8xK7Q3ybFKk1LJ9i2w5PKxdYbERUhTpN2HPz`
+    - version metadata pinned:  `QmYADApS7HFQ3f4726WBUp14zZqfbGWr2b89tdRSjtwdLR`
     - MIP_ubeswap: `QmZRsHqeCoZBHaVQ2uCQhUvXMGQJcWrCm6T7mYP5u7wgQK`
-    - New deployment ID:  (output of `pin_subgraph_files.sh`)
+    - New deployment ID:  `QmRqbVKtYnYKTaZQrG8v4pG2sMEzgjuCK8Vz99e367fZoU`
 
 
 
 ## QmeWfMioAVdipQoxM5WxjtpU3ySYt7aedCECYToST2Rfui
 - Cask Protocol Celo
     - https://thegraph.com/hosted-service/subgraph/caskprotocol/cask-protocol-celo
-    - subgraph metadata pinned:  (output of `pin_subgraph_files.sh`)
-    - version metadata pinned:  (output of `pin_subgraph_files.sh`)
+    - subgraph metadata pinned:  `QmS6GxaLQA41xAsdPUgDMxEKuCCZM6cuz5P6HeGuF95hbW`
+    - version metadata pinned:  `QmYADApS7HFQ3f4726WBUp14zZqfbGWr2b89tdRSjtwdLR`
     - MIP_cask icon celo.jpg: `QmcMjhLUoZSzTWVK8JCXoUxMz91TRvHEG9CXCcPGnEnd2C`
-    - New deployment ID:  (output of `pin_subgraph_files.sh`)
+    - New deployment ID:  `QmeWfMioAVdipQoxM5WxjtpU3ySYt7aedCECYToST2Rfui`
 
 
 ## QmeGpvmEKqwf21YauM95vS6jsCDBjcXoa1KeQppde5tWbh
 - Symmetric V2 Celo
     - https://thegraph.com/hosted-service/subgraph/centfinance/symmetric-v2-celo
-    - subgraph metadata pinned:  (output of `pin_subgraph_files.sh`)
-    - version metadata pinned:  (output of `pin_subgraph_files.sh`)
+    - subgraph metadata pinned: `QmWQ7RBmkxSSva4esPFsheUtBs7bWJm9GfrqvNNkFjtrbH`
+    - version metadata pinned: `QmYADApS7HFQ3f4726WBUp14zZqfbGWr2b89tdRSjtwdLR`
     - MIP_cent finance.jpg: `Qma73PdN1qSjtUrp4SFx48dtdTrCE3jYnRCDrYJ6yKbx4a` 
-    - New deployment ID:  (output of `pin_subgraph_files.sh`)
+    - New deployment ID:  `QmeGpvmEKqwf21YauM95vS6jsCDBjcXoa1KeQppde5tWbh`
 
 --- 
 
@@ -82,3 +82,39 @@
     - subgraph metadata pinned: QmTeTVLHARkziyRhsNejUjuBtFanB2ZwXaXMBKKV1sFSaj
     - version metadata pinned: QmYADApS7HFQ3f4726WBUp14zZqfbGWr2b89tdRSjtwdLR
     - New deployment ID: QmWq1pmnhEvx25qxpYYj9Yp6E1xMKMVoUjXVQBxUJmreSe
+
+
+--- 
+
+# Arbitrum
+## QmdPYiwtdBqeDKeMHKWDhuJFxu1TAxWP3qo2Peptia4sLB
+- Trader Joe
+    - https://thegraph.com/hosted-service/subgraph/caskprotocol/cask-protocol-celo
+    - subgraph metadata pinned:  ``
+    - version metadata pinned:  ``
+    - MIP_cask icon celo.jpg: ``
+    - New deployment ID:  ``
+
+## QmPeDVt7ygNQfmQoxsVazBHosebMeDW62tpyP8gqbZDvbJ
+- Tracer Protocol
+    - https://thegraph.com/hosted-service/subgraph/caskprotocol/cask-protocol-celo
+    - subgraph metadata pinned:  ``
+    - version metadata pinned:  ``
+    - MIP_cask icon celo.jpg: ``
+    - New deployment ID:  ``
+
+## QmPy774Z6xNnELMwcie5stweyWdVhj3PMRWxwV9Xm8VpUr
+- Livepeer Arbitrum
+    - https://thegraph.com/hosted-service/subgraph/caskprotocol/cask-protocol-celo
+    - subgraph metadata pinned:  ``
+    - version metadata pinned:  ``
+    - MIP_cask icon celo.jpg: ``
+    - New deployment ID:  ``
+
+## QmVbEmYjNRU5zyRDq6WDCWLnq952vDVWaM8AmVtvxpMy4b
+- Dodo 
+    - https://thegraph.com/hosted-service/subgraph/caskprotocol/cask-protocol-celo
+    - subgraph metadata pinned:  ``
+    - version metadata pinned:  ``
+    - MIP_cask icon celo.jpg: ``
+    - New deployment ID:  ``

@@ -21,8 +21,10 @@ curl -X --POST https://ipfs.network.thegraph.com/api/v0/pin/add?arg=/ipfs/QmToXj
     - Example:
      ```MNEMONIC="xxx" ETHEREUM="https://goerli.infura.io/v3/b68ab89e1848466fa1f4a9c3bda0f2dd" ACCOUNT_ADDRESS=0xE20987c54C9F06A5B2fb05D37A49b871ca3DB7E7 ./publish_subgraph.sh QmZ2egWxWWiEoxujgVVvqLyvh2yNG8Q8QyXvmoWYDiB4Ua ./QmV3LtUtUCiD774HXR3D9SJBNgw2VNcXZM9McyMGTfotBQ/metadata.json  ./generic-first-version-metadata.jso```
 
-# do 74 on mac, move subgraph to be published into ./../contracts/cli
+# do 7 on mac, move subgraph to be published into ./../contracts/cli
 ## /Users/pdiogo/Documents/code/thegraph/subgraph_publishing_tool
+
+
 
 ### Other examples
 **Example of an update_subgraph_metadata.sh**

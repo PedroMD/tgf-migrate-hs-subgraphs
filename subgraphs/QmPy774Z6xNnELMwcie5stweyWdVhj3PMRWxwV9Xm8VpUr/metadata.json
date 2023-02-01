@@ -1,0 +1,9 @@
+{
+  "name": "Livepeer - Arbitrum (MIPs)",
+  "displayName": "Livepeer - Arbitrum (MIPs)",
+  "description": "A protocol for affordable and reliable video encoding. Find transcoders, delegators, earning pools, and staking rounds. This subgraph was published to The Graph's Goerli testnet by The Graph Foundation, as part of the MIPs program. You can read more about MIPs here: https://thegraph.com/migration-incentive-program/.",
+  "image": "https://ipfs.network.thegraph.com/api/v0/cat?arg=",
+  "website": "https://livepeer.org/",
+  "codeRepository": "https://github.com/livepeer/subgraph",
+  "categories": ["DAO"]
+}
