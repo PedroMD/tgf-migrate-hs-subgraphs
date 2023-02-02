@@ -89,28 +89,51 @@
 # Arbitrum
 ## QmdPYiwtdBqeDKeMHKWDhuJFxu1TAxWP3qo2Peptia4sLB
 - Trader Joe
-    - subgraph metadata pinned:  ``
-    - version metadata pinned:  ``
+    - subgraph metadata pinned:  `QmRvmG2U5guWkhC3jdQyGsdmX2ELuob2wfsQ92xvLGZEht`
+    - version metadata pinned:  `QmYADApS7HFQ3f4726WBUp14zZqfbGWr2b89tdRSjtwdLR`
     - image: `QmZ2KuEwduNXgzYLkgUNx8y74vNS68NXSyP9kXq9PsiN6T`
-    - New deployment ID:  ``
+    - New deployment ID:  `QmdPYiwtdBqeDKeMHKWDhuJFxu1TAxWP3qo2Peptia4sLB`
 
 ## QmPeDVt7ygNQfmQoxsVazBHosebMeDW62tpyP8gqbZDvbJ
 - Tracer Protocol
-    - subgraph metadata pinned:  ``
-    - version metadata pinned:  ``
+    - subgraph metadata pinned:  `QmNP5PA2jF8WQrERZuVnYBau3Nw69iHerhbeSTD8862yTN`
+    - version metadata pinned:  `QmYADApS7HFQ3f4726WBUp14zZqfbGWr2b89tdRSjtwdLR`
     - image: `QmYeBtAbY268DxvJQFkCrcs7WkDhp13eAtGPFmVtPRXqBS`
-    - New deployment ID:  ``
+    - New deployment ID:  `QmPeDVt7ygNQfmQoxsVazBHosebMeDW62tpyP8gqbZDvbJ`
 
 ## QmPy774Z6xNnELMwcie5stweyWdVhj3PMRWxwV9Xm8VpUr
 - Livepeer Arbitrum
-    - subgraph metadata pinned:  ``
-    - version metadata pinned:  ``
+    - subgraph metadata pinned:  `QmUiGH7cwqnKjjQzCXHQxTwCufURY5rMQxSuPHw6Jiw2FK`
+    - version metadata pinned:  `QmYADApS7HFQ3f4726WBUp14zZqfbGWr2b89tdRSjtwdLR`
     - image: `QmWnr5k1Jbg7jc984hbw7bXveAnNSAhHGBhN3K9PSUao7S`
     - New deployment ID:  ``
 
 ## QmVbEmYjNRU5zyRDq6WDCWLnq952vDVWaM8AmVtvxpMy4b
 - Dodo 
-    - subgraph metadata pinned:  ``
-    - version metadata pinned:  ``
+    - subgraph metadata pinned:  `QmUuMWpchMEtzQumN1Wx44EBVxje2aqyd3fm2WgnaaNxbw`
+    - version metadata pinned:  `QmYADApS7HFQ3f4726WBUp14zZqfbGWr2b89tdRSjtwdLR`
     - image: `QmUwG4HBbPvjRkfaAEtQefQ4sBaWnp2VZHqdyY6UQ9b5bF`
     - New deployment ID:  ``
+
+---
+
+# Avalanche
+
+## QmQ9WwxTArN7TjJ4Mkiw6d6syWYBp8ZTmBqQpVXt2eFCJ5
+- Reinvest Tracker Avalanche
+    - image: `QmWnr5k1Jbg7jc984hbw7bXveAnNSAhHGBhN3K9PSUao7S`
+
+
+## QmTTUYzPWZjJotwhCej2KhXVygg9mbyTYXLqsTf7zNkxMc
+- Embr Token V2 Avalanche
+    - image: `QmWnr5k1Jbg7jc984hbw7bXveAnNSAhHGBhN3K9PSUao7S`
+
+
+## QmYPTfFCmQPdD2jinmTRzmkqfuThGTVtat99xKy64q5QnG
+- OliveCash Avalanche 
+    - image: `QmWnr5k1Jbg7jc984hbw7bXveAnNSAhHGBhN3K9PSUao7S`
+
+
+## QmZjBdLEcxsi6R4NZhwEFq7TeySvkJnBv6gHGU259TPkVn
+- Ribbon Avalanche
+    - image: `QmWnr5k1Jbg7jc984hbw7bXveAnNSAhHGBhN3K9PSUao7S`
