@@ -121,19 +121,19 @@
 
 ## QmQ9WwxTArN7TjJ4Mkiw6d6syWYBp8ZTmBqQpVXt2eFCJ5
 - Reinvest Tracker Avalanche
-    - image: `QmWnr5k1Jbg7jc984hbw7bXveAnNSAhHGBhN3K9PSUao7S`
+    - image: ``
 
 
 ## QmTTUYzPWZjJotwhCej2KhXVygg9mbyTYXLqsTf7zNkxMc
 - Embr Token V2 Avalanche
-    - image: `QmWnr5k1Jbg7jc984hbw7bXveAnNSAhHGBhN3K9PSUao7S`
+    - image: ``
 
 
 ## QmYPTfFCmQPdD2jinmTRzmkqfuThGTVtat99xKy64q5QnG
 - OliveCash Avalanche 
-    - image: `QmWnr5k1Jbg7jc984hbw7bXveAnNSAhHGBhN3K9PSUao7S`
+    - image: ``
 
 
 ## QmZjBdLEcxsi6R4NZhwEFq7TeySvkJnBv6gHGU259TPkVn
 - Ribbon Avalanche
-    - image: `QmWnr5k1Jbg7jc984hbw7bXveAnNSAhHGBhN3K9PSUao7S`
+    - image: `QmWBrRj57SjuQRwbgt8ThoMFD9bTUM66eRB66x7W6GhAuK`
