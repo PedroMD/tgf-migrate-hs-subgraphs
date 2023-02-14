@@ -119,7 +119,7 @@
 
 # Avalanche
 
-## QmQ9WwxTArN7TjJ4Mkiw6d6syWYBp8ZTmBqQpVXt2eFCJ5
+## QmRJ8NZPwnVHVYQysmZ2b8mdyNTj9Ndk1C2z86ngUEFrKP
 - Reinvest Tracker Avalanche
     - image: ``
 
@@ -134,6 +134,7 @@
     - image: ``
 
 
-## QmZjBdLEcxsi6R4NZhwEFq7TeySvkJnBv6gHGU259TPkVn
+## QmZjBdLEcxsi6R4NZhwEFq7TeySvkJnBv6gHGU259TPkVn -> must update to ribbon-avax (QmcCzAgW7ZN7Bhwa8Mf5n7JzPxjX7c3ex1wEHVCYrpawjV)
 - Ribbon Avalanche
     - image: `QmWBrRj57SjuQRwbgt8ThoMFD9bTUM66eRB66x7W6GhAuK`
+    - new deployment ID: `QmZATdRVquSGSW7dDdoi7V1TKCnFR1MHN4qtyxbs1pUhRp`
