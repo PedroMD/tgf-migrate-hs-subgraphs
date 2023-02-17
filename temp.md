@@ -119,9 +119,10 @@
 
 # Avalanche
 
-## QmRJ8NZPwnVHVYQysmZ2b8mdyNTj9Ndk1C2z86ngUEFrKP
+## QmRJ8NZPwnVHVYQysmZ2b8mdyNTj9Ndk1C2z86ngUEFrKP -> Grafting. Don't publish it.
 - Reinvest Tracker Avalanche
-    - image: ``
+    - image: `QmbMujsSAW5Ghbk89znLfYBsrF3Ja9kZrC9v6wUZ1pYVHg`
+    - new deployment ID: `QmRJ8NZPwnVHVYQysmZ2b8mdyNTj9Ndk1C2z86ngUEFrKP`
 
 
 ## QmTTUYzPWZjJotwhCej2KhXVygg9mbyTYXLqsTf7zNkxMc
@@ -138,3 +139,9 @@
 - Ribbon Avalanche
     - image: `QmWBrRj57SjuQRwbgt8ThoMFD9bTUM66eRB66x7W6GhAuK`
     - new deployment ID: `QmZATdRVquSGSW7dDdoi7V1TKCnFR1MHN4qtyxbs1pUhRp`
+
+
+# Gnosis
+
+## QmSjGmndTgvJYw4zqQYmWkVSG7dunEsiQaCtCqdc2kb6ee -> Juan's Gateway QoS Oracle
+- Gateway QoS Oracle

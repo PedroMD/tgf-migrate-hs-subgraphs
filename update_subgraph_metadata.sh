@@ -7,7 +7,7 @@ set -e
 
 DEPLOYMENT_ID="$1"
 SUBGRAPH_METADATA_IPFS="$2"
-SUBGRAPH_ID="$3"
+TOKEN_ID="$3"
 
 THIS_DIR=$(dirname $(realpath "$0"))
 HOME_DIR=$(dirname "$THIS_DIR")
@@ -36,7 +36,7 @@ echo "subgraph metadata: $SUBGRAPH_METADATA_IPFS"
   --graphAccount "$ACCOUNT_ADDRESS" \
   --subgraphDeploymentID "$DEPLOYMENT_ID" \
   --subgraphPath "$SUBGRAPH_METADATA_IPFS" \
-  --subgraphID "$SUBGRAPH_ID" #Token ID in Studio
+  --subgraphID "$TOKEN_ID" #Token ID in Studio
 
 # export const updateSubgraphMetadata = async (
 #   cli: CLIEnvironment,

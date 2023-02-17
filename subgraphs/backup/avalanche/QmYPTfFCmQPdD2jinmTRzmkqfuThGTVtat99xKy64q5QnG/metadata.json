@@ -1,0 +1,9 @@
+{
+  "name": "OliveCash Avalanche (MIPs)",
+  "displayName": "OliveCash Avalanche (MIPs)",
+  "description": "This subgraph was published to The Graph's Goerli testnet by The Graph Foundation, as part of the MIPs program. You can read more about MIPs here: https://thegraph.com/migration-incentive-program/.",
+  "image": "https://ipfs.network.thegraph.com/api/v0/cat?arg=Qmd6xnTDMJJJPm2d9KegoS57DcM3ZtUsKEcC5LVr8EH3rH",
+  "website": "https://olive.cash/",
+  "codeRepository": "https://github.com/olive-cash/olive-subgraph",
+  "categories": ["Defi","Social"]
+}

@@ -1,9 +1,0 @@
-{
-  "name": "Trader Joe V1 Arbitrum (MIPs)",
-  "displayName": "Trader Joe V1 Arbitrum (MIPs)",
-  "description": "One-stop Decentralized Trading Platform. Trade, Earn, Stake, Lend, Borrow, Launch and Shop all on one easily accessible platform. Everyone's favorite DEX. This subgraph was published to The Graph's Goerli testnet by The Graph Foundation, as part of the MIPs program. You can read more about MIPs here: https://thegraph.com/migration-incentive-program/.",
-  "image": "https://ipfs.network.thegraph.com/api/v0/cat?arg=QmZ2KuEwduNXgzYLkgUNx8y74vNS68NXSyP9kXq9PsiN6T",
-  "website": "https://traderjoexyz.com/",
-  "codeRepository": "https://github.com/traderjoe-xyz/joe-subgraphs",
-  "categories": ["DeFi"]
-}

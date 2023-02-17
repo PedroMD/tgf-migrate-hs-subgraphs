@@ -1,0 +1,9 @@
+{
+  "name": "YIELDYAK Reinvest Tracker Avalanche (MIPs)",
+  "displayName": "YIELDYAK Reinvest Tracker Avalanche (MIPs)",
+  "description": "This subgraph was published to The Graph's Goerli testnet by The Graph Foundation, as part of the MIPs program. You can read more about MIPs here: https://thegraph.com/migration-incentive-program/.",
+  "image": "https://ipfs.network.thegraph.com/api/v0/cat?arg=QmbMujsSAW5Ghbk89znLfYBsrF3Ja9kZrC9v6wUZ1pYVHg",
+  "website": "https://yieldyak.com/",
+  "codeRepository": "https://github.com/yieldyak/subgraph-avalanche",
+  "categories": ["Defi"]
+}
