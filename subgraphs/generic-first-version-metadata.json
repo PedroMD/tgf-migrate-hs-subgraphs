@@ -1,5 +1,5 @@
 {
-"description": "A subgraph published to The Graph's Goerli testnet by The Graph Foundation, as part of the MIPs program. You can read more about MIPs here: https://thegraph.com/migration-incentive-program/.",
-"label": "0.0.2",
-"image": "https://ipfs.network.thegraph.com/api/v0/cat?arg=QmWBrRj57SjuQRwbgt8ThoMFD9bTUM66eRB66x7W6GhAuK"
+"description": "This subgraph was published to The Graph's mainnet by The Graph Foundation, as part of the MIPs program. You can read more about MIPs here: https://thegraph.com/migration-incentive-program/.",
+"label": "0.0.1",
+"image": "https://storage.googleapis.com/subgraph-images/1666812837230the-graph-grt-logo-B6802F6411-seeklogo.com.png"
 }

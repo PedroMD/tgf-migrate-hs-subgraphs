@@ -143,5 +143,6 @@
 
 # Gnosis
 
-## QmSjGmndTgvJYw4zqQYmWkVSG7dunEsiQaCtCqdc2kb6ee -> Juan's Gateway QoS Oracle
+## `QmSjGmndTgvJYw4zqQYmWkVSG7dunEsiQaCtCqdc2kb6ee` -> Juan's Gateway QoS Oracle
 - Gateway QoS Oracle
+v0.0.2: `QmPTB2AcqkvcFvjgEzePfNFKbmaeJoVuh294nEA5pCWHYA`
