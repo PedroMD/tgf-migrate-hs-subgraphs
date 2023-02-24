@@ -1,0 +1,9 @@
+{
+  "name": "Clipper Arbitrum (MIPs)",
+  "displayName": "Clipper Arbitrum (MIPs)",
+  "description": "This subgraph was published to The Graph's mainnet by The Graph Foundation, as part of the MIPs program. You can read more about MIPs here: https://thegraph.com/migration-incentive-program/.",
+  "image": "https://storage.googleapis.com/subgraph-images/1625609552404clipper-card.png",
+  "website": "https://clipper.exchange",
+  "codeRepository": "https://github.com/shipyard-software/clipper-subgraph",
+  "categories": ["DeFi"]
+}

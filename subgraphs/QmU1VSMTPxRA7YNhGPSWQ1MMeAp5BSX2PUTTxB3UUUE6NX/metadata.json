@@ -1,0 +1,9 @@
+{
+  "name": "Celo Exchange (MIPs)",
+  "displayName": "Celo Exchange (MIPs)",
+  "description": "This subgraph was published to The Graph's mainnet by The Graph Foundation, as part of the MIPs program. You can read more about MIPs here: https://thegraph.com/migration-incentive-program/.",
+  "image": "https://api.thegraph.com/ipfs/api/v0/cat?arg=QmP4AbpQXQH2gJeEY1KCtjUBnroiEksWBHH9A9zMBgrdZ8",
+  "website": "https://app.sushi.com/",
+  "codeRepository": "https://github.com/sushiswap/sushiswap-subgraph",
+  "categories": ["DeFi"]
+}
